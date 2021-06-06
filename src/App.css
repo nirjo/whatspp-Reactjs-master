@@ -1,0 +1,29 @@
+.App {
+  flex: 1;
+  place-items: center;
+  background :  #00bfa5 ;
+ width: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  min-width: 200px;
+  
+}
+.App__head {
+    flex: 1;
+
+  display: grid;
+  place-items: center;
+  background :  white ;
+  
+}
+
+
+.body_app{
+  display: flex;
+  background-color:#ededed;
+  height: 90vh;
+  width: 90vw;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);
+  
+}
