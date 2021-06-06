@@ -94,7 +94,7 @@ const [anchorEl, setAnchorEl] = React.useState(null);
 
       <div className="sidebar_chats">
         <Sidebarchat addNewChat />
-                <Sidebarchat />
+        <Sidebarchat />
         <Sidebarchat />
         <Sidebarchat />
         <Sidebarchat />
